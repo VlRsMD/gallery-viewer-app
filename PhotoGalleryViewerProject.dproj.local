@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.05.14 15:18:11.469,=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.05.14 15:18:27.553,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\PhotoGalleryViewerProject.dproj=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025.05.14 15:18:42.946,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\PhotoGalleryViewerUnit.dfm=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025.05.14 15:18:42.946,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\PhotoGalleryViewerUnit.pas=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025.05.14 15:20:41.800,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Photo Gallery Viewer\PhotoGalleryViewerUnit.pas=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\PhotoGalleryViewerUnit.pas</Transaction>
+    <Transaction>2025.05.14 15:20:41.800,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Photo Gallery Viewer\PhotoGalleryViewerUnit.dfm=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\PhotoGalleryViewerUnit.dfm</Transaction>
+    <Transaction>2025.05.14 15:20:45.738,C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\Photo Gallery Viewer\PhotoGalleryViewerProject.dproj=C:\Users\User\OneDrive\Документы\Embarcadero\Studio\Projects\PhotoGalleryViewerProject.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
